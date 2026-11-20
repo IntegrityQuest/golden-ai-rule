@@ -50,7 +50,7 @@ For broader questions about the framework — its application, its gaps, its fut
 
 This work has no owner. The human steward is Fisher Amen (fisher@integrity.quest), who originated the framework. But the Charter belongs to no one. It is held in trust for humanity.
 
-Changes to canonical documents (`/charter/`, `/framework/`) require careful consideration and will be reviewed by the steward. Supporting documents (`/analysis/`, `/session-summaries/`) are more open to community contribution.
+Changes to canonical documents (`/charter/`, `/framework/`) require careful consideration and will be reviewed by the steward. Supporting documents (`/analysis/`) are more open to community contribution.
 
 ---
 
